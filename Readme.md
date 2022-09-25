@@ -50,3 +50,14 @@
 
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+
+
+## Ссылки
+1. Обычная вставка ссылок в текст:
+[Инструкция Markdown](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12)
+
+2. Оформление ссылки в виде сноски:
+[Инструкция Markdown][1]
+
+[1]:http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "Markdown"
