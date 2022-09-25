@@ -51,7 +51,12 @@
 ## Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
+# Инструкция для работы с Markdown
+## Выделение текста
 
+## Списки
+
+## Работа с изображениями
 
 ## Ссылки
 1. Обычная вставка ссылок в текст:
@@ -61,3 +66,9 @@
 [Инструкция Markdown][1]
 
 [1]:http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/#link12 "Markdown"
+
+## Работа с таблицами
+
+## Цитаты
+
+## Заключение
